@@ -271,7 +271,7 @@ function displaydata(a) {
              <p><span style="font-weight: bold;">HostelRoomNo : </span>${results.HostelRoomNo}</p>
              <p><span style="font-weight: bold;">Home : </span>${results.Home}</p>
             </div>
-           <a href="https://unsplash.com/photos/golden-cylinder-with-glass-spheres-and-christmas-ornaments-around-it-for-product-display-3d-rendering-K0pdfzPHAsI" target="_blank">More Details</a>
+           <a href=${results.pic} target="_blank">More Details</a>
   </div>`)
   }).join(" ")
 }
