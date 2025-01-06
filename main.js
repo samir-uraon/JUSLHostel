@@ -261,9 +261,7 @@ function displaydata(a) {
     let results=value
     return (`<div class="search_data">
             <div class="image_div">
-             <img src="https://plus.unsplash.com/premium_photo-1681488240099-f1f8585ef3e5?q=80&w=2038&auto=format&fit=crop&ixlib=rb-4.
-            0.3&ixid=M3wxMjA3fDB
-            8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+             <img src=${results.pic} alt="">
            </div>
             <div class="details">
              <p><span style="font-weight: bold;">Name : </span>${results.Name}</p>
