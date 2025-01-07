@@ -24,7 +24,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-11',
-    Home: 'None'
+    Home: 'Paschim Bardhaman'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -69,7 +69,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-26',
-    Home: 'None'
+    Home: 'Purba Medinipur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -87,7 +87,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-18',
-    Home: 'None'
+    Home: 'Paschim Medinipur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -96,7 +96,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-16',
-    Home: 'None'
+    Home: 'Purba Bardhaman'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -114,7 +114,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-23',
-    Home: 'None'
+    Home: 'Paschim Medinipur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
