@@ -6,7 +6,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-25',
-    Home: 'Alipurduar'
+    Home: 'Nimti Domohani'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -15,7 +15,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-20',
-    Home: 'Alipurduar'
+    Home: 'Bankura'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -24,7 +24,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-11',
-    Home: 'Paschim Bardhaman'
+    Home: 'Durgapur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -33,7 +33,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-21',
-    Home: 'Murshidabad'
+    Home: 'Berhampur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -51,7 +51,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-09',
-    Home: 'Bankura'
+    Home: 'Joyrambati'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -69,7 +69,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-26',
-    Home: 'Purba Medinipur'
+    Home: 'Tamluk'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -105,7 +105,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-17',
-    Home: 'None'
+    Home: 'Murshidabad'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -132,7 +132,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-13',
-    Home: 'Cochbihar'
+    Home: 'Cooch behar'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -141,7 +141,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-12',
-    Home: 'Bhardhaman'
+    Home: 'Purba Burdwan'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -150,7 +150,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-08',
-    Home: 'Digha'
+    Home: 'Mandarmani'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -159,7 +159,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-19',
-    Home: 'North Dinajpur'
+    Home: 'Raiganj'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -168,7 +168,7 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-15',
-    Home: 'Jhargram'
+    Home: 'murshidabad'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
@@ -177,16 +177,16 @@ var data = [
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-14',
-    Home: 'None'
+    Home: 'Medinipur'
   },
   {
     pic: 'https://th.bing.com/th/id/R.92ecae7a52e69f4e380760d06b4791dc?rik=6LEdIyVUjit%2byA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-NfNW3SUM2XU%2fUOybexBe3SI%2fAAAAAAAAApQ%2fLRQX9HK-NpA%2fs1600%2funknown.jpg&ehk=k8DzY9YXoaLCwLHfmT7%2fA7ArmB2SCXZIBV601NI5%2bBk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1',
-    Name: 'Orgho Boiydo',
+    Name: 'Arghya Baidya',
     Department: 'Instumentation And Electronics Engineering',
     Year: '1st',
     University: 'Jadavpur University',
     HostelRoomNo: 'S1-10',
-    Home: 'Jhargram'
+    Home: 'Madanpur'
   }
 ]
 
