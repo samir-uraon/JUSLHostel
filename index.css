@@ -103,7 +103,7 @@ form {
   flex-direction: column;
   width: 30%;
   height: 100%;
-  background-color: rgba(249, 251, 252, 0.729);
+  background-color: rgba(249, 251, 252, 0.929);
   border-radius: 0.3rem;
   box-shadow: 0 0.2rem 0.6rem rgba(183, 182, 182, 0.499), 0 0rem 0.6rem rgba(250, 248, 248, 0.599);
   margin: 1rem 0;
